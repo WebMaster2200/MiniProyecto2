@@ -1,0 +1,36 @@
+*{
+    border-color: hsl(0, 0%, 100%);
+
+}
+
+@font-face {
+    font-family: Space Mono;
+    src: url(./Space_Mono/SpaceMono-Regular.ttf);
+}
+
+ 
+div{
+    font-family: Space mono;
+    font-weight: 500;
+}
+
+#totales{
+    color:white;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    width:250px;
+    height: 250px;
+    justify-content: space-between;
+    background-color:hsl(180, 36%, 20%);
+
+}
+
+#bill{
+    border-color: aqua;
+    background-color: hsl(185, 41%, 84%);
+}
+#people{
+    border-color: aqua;
+    background-color: hsl(185, 41%, 84%);
+}
